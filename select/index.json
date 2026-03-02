@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "We Need Love & Peace",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T14:45:52.152152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/01_We_Need_Love_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Need Love (from Songland)",
+      "artist": "John Legend",
+      "has_synced": true,
+      "path": "select/02_We_Need_Love_(from_Songland)_John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Hard-Fi",
+      "has_synced": true,
+      "path": "select/03_We_Need_Love_Hard-Fi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Family of the Year",
+      "has_synced": true,
+      "path": "select/04_We_Need_Love_Family_of_the_Year.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Johnny Osbourne",
+      "has_synced": false,
+      "path": "select/05_We_Need_Love_Johnny_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Dorothy",
+      "has_synced": true,
+      "path": "select/06_We_Need_Love_Dorothy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WE NEED LOVE",
+      "artist": "Kang Seung Yoon",
+      "has_synced": true,
+      "path": "select/07_WE_NEED_LOVE_Kang_Seung_Yoon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Where Do We Go (When We Need Love)",
+      "artist": "Lloyiso",
+      "has_synced": true,
+      "path": "select/08_Where_Do_We_Go_(When_We_Need_Love)_Lloyiso.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Hard‐Fi",
+      "has_synced": true,
+      "path": "select/09_We_Need_Love_Hard‐Fi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Thomas, Ray",
+      "has_synced": false,
+      "path": "select/10_We_Need_Love_Thomas,_Ray.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Where Do We Go (When We Need Love) (Visualizer)",
+      "artist": "Lloyiso",
+      "has_synced": true,
+      "path": "select/11_Where_Do_We_Go_(When_We_Need_Love)_(Visualizer)_Lloyiso.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Snse",
+      "has_synced": false,
+      "path": "select/12_We_Need_Love_Snse.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Need Love - Cabu Remix",
+      "artist": "Cabu, Elijah Blake, Snse",
+      "has_synced": true,
+      "path": "select/13_We_Need_Love_-_Cabu_Remix_Cabu,_Elijah_Blake,_Snse.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Need Love",
+      "artist": "Lonely Island",
+      "has_synced": false,
+      "path": "select/14_We_Need_Love_Lonely_Island.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Need Love & Peace",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_We_Need_Love_&_Peace_サンボマスター.txt"
+    }
+  ]
+}
